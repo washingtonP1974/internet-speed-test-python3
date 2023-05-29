@@ -1,8 +1,11 @@
 Script written in python3 that performs speed tests and writes the results to a text file.
 
 How to use:
+
 a) chmod a+x speed_monitor.py
+
 b) python3 speed_monitor.py
+
 c) Press Ctrl+C to stop the application
 
 A report in format text (txt) file similar to this, will be generated in the /home directory:
