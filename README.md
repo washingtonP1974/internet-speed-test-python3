@@ -10,6 +10,8 @@ c) Press Ctrl+C to stop the application
 
 A report in format text (txt) file similar to this, will be generated in the /home directory:
 
+Within the script as shown in the image, direct the location where the report will be reported.
+
 $ cat testes.txt 
 
 Data Hora|Ping|Download|Upload
